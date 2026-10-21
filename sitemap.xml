@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace placeholder URL with the confirmed live domain before submitting to Search Console. -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://REPLACE-WITH-YOUR-DOMAIN.example/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://risex-referral-invite.vercel.app/</loc></url>
+</urlset>

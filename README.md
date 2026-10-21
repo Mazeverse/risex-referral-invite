@@ -10,8 +10,13 @@ Minimal, responsive English referral landing page for RISE trading.
 ## Deploy
 1. Upload the contents of this folder to the root of a public GitHub repository named `risex-referral-invite`.
 2. Import the repository into Vercel; choose **Other** framework and leave build command empty.
-3. After deployment, replace the placeholder in `sitemap.xml` with your final production URL, and add `Sitemap: https://YOUR-DOMAIN/sitemap.xml` to `robots.txt`.
-4. Optionally add a canonical link and Open Graph URL to `index.html` once the final domain is confirmed.
+3. The production URL is already configured in `sitemap.xml` and `robots.txt`.
+4. The canonical URL, Open Graph URL, and Google verification tag are already configured in `index.html`.
 
 ## Notes
 This is an independent referral page, not an official RISE site. Verify referral program terms before publication. No signup discount is claimed.
+
+## Deployed URL
+https://risex-referral-invite.vercel.app/
+
+Google Search Console verification meta tag included in `index.html`.
